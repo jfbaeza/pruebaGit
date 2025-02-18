@@ -7,3 +7,4 @@
 5. git branch (ver ramas)
 6. git branch programador (crea rama programador)
 7. git branch -D programador (elimina rama programador)
+8. git checkout programador (cambia a rama programador)
