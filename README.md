@@ -9,3 +9,4 @@
 7. git branch -D programador (elimina rama programador)
 8. git checkout programador (cambia a rama programador)
 9. git log (muestra historial de commits)
+10. git diff (muestra diferencias entre cambios no comiteados y los del repositorio)
