@@ -10,3 +10,6 @@
 8. git checkout programador (cambia a rama programador)
 9. git log (muestra historial de commits)
 10. git diff (muestra diferencias entre cambios no comiteados y los del repositorio)
+11. git remote add origin https://github.com/jfbaeza/pruebaGit.git (asocia tu repositorio local a uno remoto)
+12. git push -u origin master (envia commits locales al repositorio remoto)
+13. git puss --all origin (envia todas las ramas locales al remoto)
